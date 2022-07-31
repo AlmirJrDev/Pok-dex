@@ -12,6 +12,6 @@ Pokédex feita com JavaScript, usando API do
 
 ## Foto do projeto
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <img src="./img/pokédex.png" alt="exemplo imagem">
 
 [GitPages💻](https://almirjrdev.github.io/Pok-dex/)
