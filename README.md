@@ -1,5 +1,5 @@
 
-# Pokédex - AlmirJrDev
+# Pokédex - AlmirJrDev👨‍💻
 
 Pokédex feita com JavaScript, usando API do 
  [PokéAPI](https://pokeapi.co/), Inspiração do Canal do Youtube [Manual do dev](https://www.youtube.com/watch?v=SjtdH3dWLa8).
@@ -14,3 +14,4 @@ Pokédex feita com JavaScript, usando API do
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+[GitPages💻](https://almirjrdev.github.io/Pok-dex/)
